@@ -4,6 +4,8 @@
 ## 🚀 A propos de moi
 🎯 Je suis passionné par l'informatique, plus particulièrement par tout ce qui touche à la cybersécurité. J'adore participé a des Capture The Flag sur des sites tels que https://www.404ctf.fr/ et https://www.root-me.org/ !
 
+🏫 J'étudie actuellement au lycée Pierre de Fermat à Toulouse en MPI.
+
 ## 📊 Mes Stats
 ### 🔹 Profil Root-me
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=VayZort&gstats=show&style=dark)
