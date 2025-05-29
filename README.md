@@ -1,7 +1,7 @@
 
-# 👋 Bonjour, je suis TORTONI Valentin!
+# Bonjour, je suis Valentin TORTONI
 
-## 🚀 A propos de moi
+## A propos de moi
 🎯 Je suis passionné par l'informatique, plus particulièrement par tout ce qui touche à la cybersécurité. J'adore participé a des Capture The Flag sur des sites tels que https://www.404ctf.fr/ et https://www.root-me.org/ !
 
 🏫 J'étudie actuellement au lycée Pierre de Fermat à Toulouse en MPI.
