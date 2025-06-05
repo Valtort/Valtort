@@ -15,8 +15,8 @@
 ## 📌 Projets
 - 🔹 [Spirale d'Ulam](https://github.com/Valtort/Projet-Spirale_Ulam) - Permet l'affichage d'un spirale d'Ulam.
 - 🔹 [LDVELH](https://github.com/Valtort/Projet-LDVELH) - Permet de jouer à un livre dont vous êtes le héros, le livre a été écris en équipe.
-- 🔹 [Ecrire dans le terminal](https://github.com/Valtort/Projet-Ecrire_Terminal) - Permet d'écrire avec des grosses lettres dans le terminal
-- 🔹 [TIPE : Model-Checker](https://github.com/Valtort/TIPE_2025) - Permet de vérifier si un modèle vérifie une propriété exprimé en logique LTL (permet donc de prouver qu'un algorithme vérifie un invariant). Diapositives disponibles [ici](https://github.com/Valtort/TIPE_2025/blob/main/TIPE_Diapo.pdf)
+- 🔹 [Ecrire dans le terminal](https://github.com/Valtort/Projet-Ecrire_Terminal) - Permet d'écrire avec des grosses lettres dans le terminal.
+- 🔹 [TIPE : Model-Checker](https://github.com/Valtort/TIPE_2025) - Permet de vérifier si un modèle vérifie une propriété exprimée en logique LTL (permet donc de prouver qu'un algorithme vérifie un invariant). Diapositives disponibles [ici](https://github.com/Valtort/TIPE_2025/blob/main/TIPE_Diapo.pdf).
 
 ## 💻 Mes TP de Sup
 - 🔹 [TP](https://github.com/Valtort/TP-SUP) - Il ne sont pas tous présents, mais fait en entier pour ceux qui ont été traités.
