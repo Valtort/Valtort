@@ -4,7 +4,7 @@
 ## A propos de moi
 🎯 Je suis passionné par l'informatique, plus particulièrement par tout ce qui touche à la cybersécurité. J'adore participé a des Capture The Flag sur des sites tels que https://www.404ctf.fr/ et https://www.root-me.org/ !
 
-🏫 J'étudie actuellement à l'ENS Renens.
+🏫 J'étudie actuellement à l'ENS Rennes.
 
 ## 🛠️ Langages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
