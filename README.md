@@ -4,7 +4,7 @@
 ## A propos de moi
 🎯 Je suis passionné par l'informatique, plus particulièrement par tout ce qui touche à la cybersécurité. J'adore participé a des Capture The Flag sur des sites tels que https://www.404ctf.fr/ et https://www.root-me.org/ !
 
-🏫 J'étudie actuellement au lycée Pierre de Fermat à Toulouse en MPI.
+🏫 J'étudie actuellement à l'ENS Renens.
 
 ## 🛠️ Langages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
